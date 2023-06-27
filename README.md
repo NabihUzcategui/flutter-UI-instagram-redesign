@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![instagram_redesign](https://github.com/NabihUzcategui/flutter-UI-instagram-redesign/assets/99839506/df94626d-facf-4753-bc7c-5e87e48d9a23)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
